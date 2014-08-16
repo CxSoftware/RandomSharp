@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CxSoftware.RandomSharp", "CxSoftware.RandomSharp\CxSoftware.RandomSharp.csproj", "{3206F038-AD4F-4C69-98F0-2DD2A972D3EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CxSoftware.RandomSharp.Tests", "CxSoftware.RandomSharp.Tests\CxSoftware.RandomSharp.Tests.csproj", "{DACB6BCB-3D5A-43AF-9E3E-D7169BEFAB6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3206F038-AD4F-4C69-98F0-2DD2A972D3EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3206F038-AD4F-4C69-98F0-2DD2A972D3EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3206F038-AD4F-4C69-98F0-2DD2A972D3EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3206F038-AD4F-4C69-98F0-2DD2A972D3EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DACB6BCB-3D5A-43AF-9E3E-D7169BEFAB6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DACB6BCB-3D5A-43AF-9E3E-D7169BEFAB6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DACB6BCB-3D5A-43AF-9E3E-D7169BEFAB6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DACB6BCB-3D5A-43AF-9E3E-D7169BEFAB6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = CxSoftware.RandomSharp\CxSoftware.RandomSharp.csproj
+	EndGlobalSection
+EndGlobal
